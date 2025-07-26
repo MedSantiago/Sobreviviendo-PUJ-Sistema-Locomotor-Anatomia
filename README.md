@@ -109,6 +109,7 @@
       <ul class="nav-links">
          <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ/">Inicio</a></li>
         <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas">Generalidades Anatomicas</a></li>
+        <li><a href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Columna-Vertebral-y-Dorso">Columna Vertebral y Dorso</a></li>
       <li><a href="https://drive.google.com/drive/folders/1YTLMebvFdqlbVcNcJJSNAZjdfhyQDl1U?usp=drive_link">Apuntes</a></li>
 
       </ul>
